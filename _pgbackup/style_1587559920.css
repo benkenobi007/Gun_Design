@@ -1,0 +1,25 @@
+#header {
+    background-color: #000000;
+    padding: 0.5%;
+}
+
+#video-bar {
+    justify-content: center;
+    align-content: center;
+    background-color: black;
+    max-height: 20%;
+}
+
+#maximize {
+    height: 70%;
+}
+
+#exit {
+    height: 100%;
+    width: 100%;
+}
+
+.thumb {
+    height: 50%;
+    max-width: 140px;
+}
